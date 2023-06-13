@@ -1,7 +1,5 @@
-﻿#Login to Azure
+#Login to Azure
 #Connect-AzAccount
-
-#Set-AzContext -Subscription "10fcb365-98e6-4e0d-acbe-4235d166f418"
 
 #List subscription accessible
 Get-Azsubscription | ft
